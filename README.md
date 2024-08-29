@@ -1,4 +1,4 @@
-- ✎✎ I’m currently a senior at Rutgers Business School majoring in Computer Science + Business Analytics & Information Technology (BAIT).
+- ✎✎ Senior @ Rutgers Business School majoring in Computer Science + Business Analytics & Information Technology (BAIT).
 - ☁️ AWS frameworks and technologies: Amazon Bedrock, AWS Lambda, AWS CloudFormation, Amazon S3, AWS Step Functions, Amazon DynamoDB + more!
 - 🛩️ Feel free to contact me about anything!
 - 😦 Over the past summer, I’ve worked on several AWS projects, many of which you can find detailed below!
