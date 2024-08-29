@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- ![movdragonite](https://github.com/user-attachments/assets/c4085761-46ae-49e0-9c3c-0a16c6e5ea52) I’m currently working on ... 
 <!--
 **Achal2/Achal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![movdragonite](https://github.com/user-attachments/assets/c4085761-46ae-49e0-9c3c-0a16c6e5ea52)
+
 -->
